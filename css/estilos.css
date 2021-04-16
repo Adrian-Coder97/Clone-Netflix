@@ -43,6 +43,31 @@
   text-align: justify;
 }
 
+#masWhatisNetflix{
+  background: none;
+  border: none;
+}
+
+#howMuch{
+  background: none;
+  border: none;
+}
+
+#whereCan{
+  background: none;
+  border: none;
+}
+
+#cancel{
+  background: none;
+  border: none;
+}
+
+#whatCan{
+  background: none;
+  border: none;
+}
+
 @media (max-width: 550px) {
   .unlimited {
     font-size: 30px;
