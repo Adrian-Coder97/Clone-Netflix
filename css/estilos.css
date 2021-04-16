@@ -1,6 +1,6 @@
 .fondoImagen {
-  background-image: url("./img/Netflix-Background.jpg");
   width: 100%;
+  background-image: url("../img/Netflix-Background.jpg");
 }
 
 .fondoNavbar {
@@ -35,7 +35,7 @@
   font-size: 50px;
 }
 
-.anchoPreguntas{
+.anchoPreguntas {
   width: 50%;
 }
 
@@ -57,37 +57,31 @@
   #enjoy h1 {
     font-size: 30px;
   }
-  
 
   #enjoy h4 {
     font-size: 18px;
   }
 
-
-  #questions p{
+  #questions p {
     font-size: 16px;
   }
 
-  #questions h4{
+  #questions h4 {
     font-size: 14px;
   }
-  .anchoPreguntas{
+  .anchoPreguntas {
     width: 90%;
   }
 
-  #footer div div p{
+  #footer div div p {
     text-align: center;
     font-size: 20px;
   }
 
-  #links a{
+  #links a {
     font-size: 10px;
   }
-  
 }
-
-
-
 
 @media (max-width: 1024px) {
   #download {
@@ -99,38 +93,33 @@
   /*#questions p{
     font-size: 30px;
   }*/
-  
-  .anchoPreguntas{
+
+  .anchoPreguntas {
     width: 70%;
   }
 
-  #footer div div p{
+  #footer div div p {
     text-align: center;
     font-size: 20px;
   }
-
-  
 }
 
 @media (min-width: 768px) {
   .unlimited {
     font-size: 50px;
   }
-
-  
 }
 @media (min-width: 1024px) {
   .unlimited {
     font-size: 60px;
   }
-  #questions p{
+  #questions p {
     font-size: 40px;
   }
-  #footer div div p{
+  #footer div div p {
     text-align: center;
     font-size: 30px;
   }
-
 }
 @media (min-width: 1980px) {
   .unlimited {
